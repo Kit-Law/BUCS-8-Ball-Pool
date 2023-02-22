@@ -57,7 +57,7 @@ The total cost of the event to be paid after the event:
 	- Sam (Captain),
 	- Kit,
 	- Theo,
-  - Charlie,
+  	- Charlie,
 	- Marigold,
 	- Zack.
   
