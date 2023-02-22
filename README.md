@@ -47,7 +47,7 @@ The total cost of the event to be paid after the event:
 
 ## Teams
 ### Men's first
-- Burges (Captain),
+- Burgkhalifa (Captain),
 - Joe,
 - Keeble,
 - David,
